@@ -17,5 +17,7 @@
 ### 第一步：关注“梦图科技”微信公众号进行首次的配网
 
 ![image](https://user-images.githubusercontent.com/65395051/115167390-04e77080-a0ea-11eb-8a3a-d4bd5db49307.png)
-### 第二步：微信小程序设置参数
+### 第二步：微信小程序设置参数。（如果没有账号，请先联系客户获取授权码，然后注册）
+![image](https://user-images.githubusercontent.com/65395051/115167640-eb92f400-a0ea-11eb-8442-3b43dc92a409.png)
+
 
