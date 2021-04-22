@@ -1,6 +1,7 @@
 # ESP8266TV
 ![image](https://user-images.githubusercontent.com/65395051/114113852-3904a980-9912-11eb-9f74-fa144fbed7a3.png)
-![image](https://user-images.githubusercontent.com/65395051/115640382-66f1e100-a349-11eb-8b94-1d66c6c19be5.png)
+
+![image](https://user-images.githubusercontent.com/65395051/115640680-1dee5c80-a34a-11eb-8605-fd276f067ae7.png)
 
 ## ESP8266  透明小电视功能
 ### 所有参数可以通过微信小程序设置
